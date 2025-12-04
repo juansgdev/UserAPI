@@ -12,7 +12,7 @@
 	<artifactId>usersapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>usersapi</name>
-	<description>API que realiza todas as operações CRUD com a entidade de usuários(nome, email &amp; senha) com persistência em Banco de Dados Relacional MySQL.</description>
+	<description>API que realiza todas as operações CRUD com a entidade de usuário(nome, email) com persistência em Banco de Dados Relacional MySQL.</description>
 	<url/>
 	<licenses>
 		<license/>
